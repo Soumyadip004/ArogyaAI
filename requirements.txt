@@ -216,6 +216,7 @@ Pygments==2.17.2
 pyinstaller-hooks-contrib==2024.9
 pyparsing==3.0.9
 pypdf==5.4.0
+pywin32==306; platform_system == "Windows"
 PyPDF2==3.0.1
 pyproj==3.6.1
 PyQt5==5.15.11
